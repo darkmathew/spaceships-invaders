@@ -1,0 +1,852 @@
+fileFormatVersion: 2
+guid: 91e7d1e376da314488c90719f3135ead
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3752988537997267716
+    second: fundoatv2444-pixilart_0
+  - first:
+      213: -5307075573773050923
+    second: fundoatv2444-pixilart_1
+  - first:
+      213: -1801031231218213794
+    second: fundoatv2444-pixilart_2
+  - first:
+      213: -889989553649695695
+    second: fundoatv2444-pixilart_3
+  - first:
+      213: 3376569080827298293
+    second: fundoatv2444-pixilart_4
+  - first:
+      213: 6636805553751901450
+    second: fundoatv2444-pixilart_5
+  - first:
+      213: 2727434488684122775
+    second: fundoatv2444-pixilart_6
+  - first:
+      213: 347326725874469484
+    second: fundoatv2444-pixilart_7
+  - first:
+      213: 4843580387720298687
+    second: fundoatv2444-pixilart_8
+  - first:
+      213: 2007254343752570580
+    second: fundoatv2444-pixilart_9
+  - first:
+      213: 8084513780402728277
+    second: fundoatv2444-pixilart_10
+  - first:
+      213: -4888856614777258244
+    second: fundoatv2444-pixilart_11
+  - first:
+      213: -4242289254709957003
+    second: fundoatv2444-pixilart_12
+  - first:
+      213: -2538644817489474158
+    second: fundoatv2444-pixilart_13
+  - first:
+      213: -4072761443293221446
+    second: fundoatv2444-pixilart_14
+  - first:
+      213: -5977584815221364886
+    second: fundoatv2444-pixilart_15
+  - first:
+      213: -7138003699751214949
+    second: fundoatv2444-pixilart_16
+  - first:
+      213: 7929693787489141622
+    second: fundoatv2444-pixilart_17
+  - first:
+      213: 7276991997020773134
+    second: fundoatv2444-pixilart_18
+  - first:
+      213: -7099947974260039824
+    second: fundoatv2444-pixilart_19
+  - first:
+      213: 7901514160961469298
+    second: fundoatv2444-pixilart_20
+  - first:
+      213: 5539038914071777173
+    second: fundoatv2444-pixilart_21
+  - first:
+      213: 9047448497946929556
+    second: fundoatv2444-pixilart_22
+  - first:
+      213: 6947864381834663342
+    second: fundoatv2444-pixilart_23
+  - first:
+      213: 1769641816283403306
+    second: fundoatv2444-pixilart_24
+  - first:
+      213: 5351453969321276345
+    second: fundoatv2444-pixilart_25
+  - first:
+      213: -5494722742489026583
+    second: fundoatv2444-pixilart_26
+  - first:
+      213: 3542606983482672636
+    second: fundoatv2444-pixilart_27
+  - first:
+      213: 602355382190987462
+    second: fundoatv2444-pixilart_28
+  - first:
+      213: 1998122358308831540
+    second: fundoatv2444-pixilart_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 217
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403907de03b451430800000000000000
+      internalID: 3752988537997267716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 217
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbda1d32ea7956b0800000000000000
+      internalID: -5307075573773050923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 217
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c9ad133a37107e0800000000000000
+      internalID: -1801031231218213794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 217
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134c6e0673f16a3f0800000000000000
+      internalID: -889989553649695695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 217
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1474e60bbfbde20800000000000000
+      internalID: 3376569080827298293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 180
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05c8b2ec7baa1c50800000000000000
+      internalID: 6636805553751901450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 179
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7929a26873bc9d520800000000000000
+      internalID: 2727434488684122775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 179
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a4fb421d3f1d400800000000000000
+      internalID: 347326725874469484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 179
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb00e1343bad73340800000000000000
+      internalID: 4843580387720298687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 179
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d65b35d0333bdb10800000000000000
+      internalID: 2007254343752570580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55da7ae1376f13070800000000000000
+      internalID: 8084513780402728277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfef166afca472cb0800000000000000
+      internalID: -4888856614777258244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e6e82466c5025c0800000000000000
+      internalID: -4242289254709957003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d47a22dfbe4ccd0800000000000000
+      internalID: -2538644817489474158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abda995bb05aa77c0800000000000000
+      internalID: -4072761443293221446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6726f9f74a5b0da0800000000000000
+      internalID: -5977584815221364886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90a7ee2477b0fc90800000000000000
+      internalID: -7138003699751214949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67389e48c7eeb0e60800000000000000
+      internalID: 7929693787489141622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b98c78aa11df460800000000000000
+      internalID: 7276991997020773134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fd97e3feae77d90800000000000000
+      internalID: -7099947974260039824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bb3dfe341d7ad60800000000000000
+      internalID: 7901514160961469298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f40569b8e9edc40800000000000000
+      internalID: 5539038914071777173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499a4c3397efe8d70800000000000000
+      internalID: 9047448497946929556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea518da08d5cb6060800000000000000
+      internalID: 6947864381834663342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_24
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24df3f1bd70f8810800000000000000
+      internalID: 1769641816283403306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3bf39280f244a40800000000000000
+      internalID: 5351453969321276345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef6eaa27c2deb3b0800000000000000
+      internalID: -5494722742489026583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_27
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf58d4d284ed92130800000000000000
+      internalID: 3542606983482672636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_28
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8d908570ffb5800800000000000000
+      internalID: 602355382190987462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundoatv2444-pixilart_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43183c8c2b1cabb10800000000000000
+      internalID: 1998122358308831540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
