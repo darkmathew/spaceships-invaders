@@ -62,29 +62,24 @@ public class Invader : MonoBehaviour
     void SetSpaceShipHealth(){        
         if(name.Contains("gray_sp")){
             spaceship_multiplier = 1;
-            this.invader_health = spaceship_multiplier * multiplier;
 
         } else if(name.Contains("green_sp")){
             spaceship_multiplier = 3;
-            this.invader_health = spaceship_multiplier * multiplier;
 
         } else if(name.Contains("red_sp")){
             spaceship_multiplier = 5;
-            this.invader_health = spaceship_multiplier * multiplier;
 
         } else if(name.Contains("big_purple_sp")){
             spaceship_multiplier = 10;
-            this.invader_health = spaceship_multiplier * multiplier;
 
         } else if(name.Contains("big_yellow_sp")){
             spaceship_multiplier = 20;
-            this.invader_health = spaceship_multiplier * multiplier;
-
+            
         } else{
             print("Nave invasora não identificada");
             spaceship_multiplier = 0;
-            this.invader_health = spaceship_multiplier * multiplier;
         }
+        this.invader_health = spaceship_multiplier * multiplier;
     }
 
     public int TakeDamage(int damage){
